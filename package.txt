@@ -1,0 +1,4 @@
+com.seleuco.mame4droid
+com.explusalpha.Snes9xPlus
+com.aspieapps.free.emulator
+com.androidemu.gens
