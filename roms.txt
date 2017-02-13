@@ -1,0 +1,4 @@
+http://www.aerialview.tv/app/mame/update.zip
+http://www.aerialview.tv/app/snes/update.zip
+http://www.aerialview.tv/app/n64/update.zip
+http://www.aerialview.tv/app/sega/update.zip
