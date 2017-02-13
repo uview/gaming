@@ -1,0 +1,4 @@
+Arcade
+SNES
+N64
+Sega
